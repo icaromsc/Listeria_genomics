@@ -1,0 +1,7 @@
+organism: Listeria species strain 
+contigs: 333
+bases: 3098720
+tRNA: 62
+tmRNA: 1
+CDS: 3020
+rRNA: 7
